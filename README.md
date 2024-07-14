@@ -17,18 +17,7 @@ I have embarked on a 30-day journey to master JavaScript through Hitesh Choudhar
 ## Repository Structure 📂
 
 30-Days-JavaScript-Challenge/
-│
-├── Day1/
-│ ├── task1.js
-│ ├── task2.js
-│ └── README.md
-│
-├── Day2/
-│ ├── task1.js
-│ ├── task2.js
-│ └── README.md
-│
-└── ...
+![Alt text](repo%20structure.png)
 
 - **Day1/**: Contains solutions for the tasks of Day 1. 📅
 - **Day2/**: Contains solutions for the tasks of Day 2. 📅
