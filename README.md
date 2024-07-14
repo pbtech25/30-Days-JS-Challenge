@@ -23,3 +23,10 @@ I have embarked on a 30-day journey to master JavaScript through Hitesh Choudhar
 - **Day1/**: Contains solutions for the tasks of Day 1. 📅
 - **Day2/**: Contains solutions for the tasks of Day 2. 📅
 - And so on... 🔄
+
+## Daily Learnings 📚
+
+|    **DATE**    |        **TOPIC**         |                                         **LEARNINGS**                                         |
+| :------------: | :----------------------: | :-------------------------------------------------------------------------------------------: |
+| **13.07.2024** | Variables and Data Types | Variable Declaration, Constant Declaration, Data Types, Reassigning Vars, Understanding const |
+| **14.07.2024** |        Operators         |                     Arithmetic, Assignment, Comparison, Logical, Ternary                      |
